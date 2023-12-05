@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="351 design" />
+         <img src="/351logo_square.png" width="200" height="200" alt="351 design logo"/>
         <p className="description">
           351 design is a digital and print publishing company.
         </p>
