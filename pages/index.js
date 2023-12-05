@@ -11,10 +11,15 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="351 design" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          351 design is a digital and print publishing company.
         </p>
+        <p className="description">
+          We create adventure travel guidebooks, maps, and digital assets  that help people explore destination cities in an active way.
+        </p>
+        
+
       </main>
 
       <Footer />
