@@ -11,15 +11,15 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="351 design" />
-         <img src="/351logo_square.png" width="200" height="200" alt="351 design logo"/>
-        <p className="description">
-          351 design is a digital and print publishing company.
-        </p>
-        <p className="description">
-          We create adventure travel guidebooks, maps, and digital assets  that help people explore destination cities in an active way.
-        </p>
-        
+        <img src="/351logo_square.png" width="200" height="200" alt="351 design logo"/>
+        <Header title="Trusted guides for active travel" />
+        <p>351 design is a digital and print publishing company.</p>
+        <p>We create adventure travel guidebooks, maps, and digital assets that help people explore cities and holiday destinations in an active way.</p>
+        <a href="mailto:contact@351design.com">
+                  <button type="button" class="contact-button">
+                    Contact
+                  </button>
+                </a>
 
       </main>
 
